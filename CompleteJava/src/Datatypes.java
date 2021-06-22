@@ -60,7 +60,7 @@ public class Datatypes {
 
 
       /**
-       * Non-primitive datatypes
+       * Non-primitive datatypes.
        * String,arrays,classes
        */
 

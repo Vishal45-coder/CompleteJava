@@ -13,6 +13,7 @@ public class If_else {
             //This will be execute because it was having a semicolon after the else which does not check the condition
             System.out.println("This is score");
             System.out.println("this is also score");
+            System.out.println("This will also print");
          }
     }
     

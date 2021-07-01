@@ -1,3 +1,5 @@
+import jdk.internal.math.FDBigInteger;
+
 public class White_space {
     public static void main(String[] args){
 
@@ -13,7 +15,8 @@ public class White_space {
        int       num2   =   40;num2=num
        +20;System.out.println(num2); //even we can give spaces or we can continue from one line to another 
      
-       
+       System.out.println("hi");
+      
     }
 }
  

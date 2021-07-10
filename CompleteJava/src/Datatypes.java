@@ -1,5 +1,5 @@
 package src;
-public class Datatypes {
+public class Datatypes  {
     /**
       * Primitive datatypes in java
       boolean,byte,char,short,int,long,float and double

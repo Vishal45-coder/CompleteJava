@@ -7,7 +7,6 @@ public class Getter_setter {
         h1.setA(10);
 		System.out.println(h1.getA());
 	}
-
 }
 class ge{
 	 int a;

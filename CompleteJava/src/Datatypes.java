@@ -1,4 +1,3 @@
-package src;
 public class Datatypes  {
     /**
       * Primitive datatypes in java
